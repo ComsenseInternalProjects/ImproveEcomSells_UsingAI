@@ -1,0 +1,17 @@
+# Ignore self
+.gitignore
+
+# Ignore Files
+README.md
+
+# Ignore Directories at root
+.llmenv/
+.git/
+.vscode/
+
+# Caches
+**/__pycache__/
+
+# Envfiles
+.venv/
+
