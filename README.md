@@ -19,7 +19,7 @@ This project involves the development of an AI platform that utilizes generative
 - **Web Automation**: Employs Selenium and Playwright for web scraping and automated interactions with e-commerce platforms.
 - **Image Processing**: Utilizes OpenCV for processing and analyzing product images.
 - **Containerization**: Docker is used to containerize applications for easy deployment and scalability.
-- **Modular Design**: Built using Python, ensuring modularity and ease of maintenance.
+- **Modular Design**: Built using Python, ensuring modularity and ease of maintenance .
 
 ## 🛠️ Technologies Used
 
